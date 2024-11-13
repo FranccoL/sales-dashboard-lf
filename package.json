@@ -2,7 +2,7 @@
   "name": "sales-dashboard-lf",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "devDependencies": {
     "@types/node": "^22.9.0",
